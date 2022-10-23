@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Jmeter**
+- 🌱 I’m currently learning **API Testing**
 
 - 💬 Ask me about **Web Hosting, AWS Services, Database Design, Project Design, Project Managemnt, Laravel, Angular, Javascript **
 
