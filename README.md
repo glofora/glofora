@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jibin KR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibin-kr" alt="jibin-kr" /></a> </p>
+
 
 - 🌱 I’m currently learning **Jmeter**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **jibin@tigabits.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
