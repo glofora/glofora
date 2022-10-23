@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Jmeter**
 
-- 💬 Ask me about **Laravel,MySQL,Angular,AWS**
+- 💬 Ask me about **Web Hosting, AWS Services, Database Design, Project Design, Project Managemnt, Laravel, Angular, Javascript **
 
 - 📫 How to reach me **jibin@tigabits.com**
 
