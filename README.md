@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **API Testing**
 
-- 💬 Ask me about **Web Hosting, AWS Services, Database Design , Laravel, Angular, Javascript and dotnet**
+- 💬 Ask me about **Web Hosting, AWS Services, Database Design , Laravel, Angular, Javascript and Microsfot .Net**
 
 - 📫 How to reach me **jibin@tigabits.com**
 
