@@ -1,7 +1,7 @@
 <h1 align="center">A forum to build solutions for your dreams</h1>
 <h3 align="center">Glofora came up with technologies, information, and high-quality growth services to help your day-to-day #work #business #life</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glofora&label=Profile%20views&color=0e75b6&style=flat" alt="glofora" /> </p>
 
 
 
