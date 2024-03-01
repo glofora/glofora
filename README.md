@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 Services / Products **We make technologies to help your Work / Life / Business in all industries with high-quality growth services and products which are presented below**
 
-- 💬 Ask me about **Web Hosting, AWS Services, Database Design , Laravel, Angular, Javascript and Microsfot .Net**
+- 💬 Ask us about **Web Hosting, AWS Services, Web Development, Mobile App Development, Digital Marketing**
 
-- 📫 How to reach me **jibin@tigabits.com**
+- 📫 How to reach us **info@glofora.com**
 
 <p align="left">
 </p>
