@@ -1,5 +1,5 @@
 <h1 align="center">A forum to build solutions for your dreams</h1>
-<h3 align="center">jibin_kr came up with technologies, information, and high-quality growth services to help your day-to-day #work #business #life</h3>
+<h3 align="center">I am a qualified and professional aws devops engineer with 5 years of experience in database administration, website design, APP development and DEVOPS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin_kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin_kr" /> </p>
 
