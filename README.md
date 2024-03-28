@@ -1,15 +1,12 @@
-<h1 align="center">A forum to build solutions for your dreams</h1>
+<h1 align="center">JIBIN KR</h1>
 <h3 align="center">I am a qualified and professional aws devops engineer with 5 years of experience in database administration, website design, APP development and DEVOPS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
 
 
+- 💬 Ask me about **Web Hosting, AWS Services, Web Development, Mobile App Development, Digital Marketing**
 
-- 🌱 Services / Products **We make technologies to help your Work / Life / Business in all industries with high-quality growth services and products which are presented below**
-
-- 💬 Ask us about **Web Hosting, AWS Services, Web Development, Mobile App Development, Digital Marketing**
-
-- 📫 How to reach us **jibin_kr@live.in**
+- 📫 How to reach me **jibin_kr@live.in**
 
 <p align="left">
 </p>
