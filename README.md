@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
 
 
-- 💬 Ask me about **Web Hosting, AWS Services, Web Development, Mobile App Development, Digital Marketing**
+- 💬 Ask me about **Web Hosting, AWS Services, Web Development and Mobile App Development**
 
 - 📫 How to reach me **jibin_kr@live.in**
 
