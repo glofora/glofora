@@ -1,5 +1,5 @@
 <h1 align="center">JIBIN KR</h1>
-<h3 align="center">I am a qualified and professional aws devops engineer with 5 years of experience in database administration, website design, APP development and DEVOPS</h3>
+<h3 align="center">I am a qualified and professional aws devops engineer with 5 years of experience in database administration, website design, APP development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
 
