@@ -9,7 +9,7 @@
 
 - 💬 Ask us about **Web Hosting, AWS Services, Web Development, Mobile App Development, Digital Marketing**
 
-- 📫 How to reach us **info@jibin-kr.com**
+- 📫 How to reach us **jibin_kr@live.in**
 
 <p align="left">
 </p>
