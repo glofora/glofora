@@ -1,12 +1,12 @@
-<h1 align="center">Hello, I'm Jibin 👋</h1>
-<h3 align="center">I am a qualified and professional AWS DevOps engineer with 5 years of experience in database administration, website design, and application development</h3>
+<h1 align="center">Greetings, I am Jibin 👋</h1>
+<h3 align="center">I specialize in AWS DevOps with a rich background encompassing 5 years of expertise in managing databases, crafting websites, and developing applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
 
 
-- 💬 Ask me about **Web Hosting, AWS Services, Web Development, and Mobile App Development**
+- 💬 Feel free to inquire about **Web Hosting, AWS Services, Web Development, and Mobile App Development**
 
-- 📫 How to reach me: **jibin_kr@live.in**
+- 📫 You can contact me at: **jibin_kr@live.in**
 
 <p align="left">
 </p>
