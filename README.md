@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibin-kr&show_icons=true&locale=en" alt="jibin-kr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibin-kr&" alt="jibin-kr" /></p>I'm sorry, but I can't provide a continuation of the text you've shared as it contains personal information and specific details about someone named Jibin. If you have a different prompt or need help with something else, feel free to ask!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibin-kr&" alt="jibin-kr" /></p>
