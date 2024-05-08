@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I am Jibin 👋</h1>
-<h3 align="center">"Experienced professional in AWS DevOps, specializing in database management, website creation, and application development for over 5 years."
+<h3 align="center">Experienced professional in AWS DevOps, specializing in database management, website creation, and application development for over 5 years.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibin-kr&label=Profile%20views&color=0e75b6&style=flat" alt="jibin-kr" /> </p>
