@@ -55,6 +55,6 @@
   <a href="https://glofora.com/services.php">Services</a> •
   <a href="https://glofora.com/case-studies.php">Case Studies</a> •
   <a href="https://linkedin.com/company/glofora">LinkedIn</a> •
-  <a href="https://twitter.com/glofora">X</a> •
-  <a href="https://instagram.com/gloforasolutions">Instagram</a>
+  <a href="https://twitter.com/gloforahq">X</a> •
+  <a href="https://instagram.com/gloforahq">Instagram</a>
 </div>
